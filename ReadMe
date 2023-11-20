@@ -1,1 +1,10 @@
-implement GNN from the Kaggle blog 
+Go with this flow for understanding the project in a sequential manner
+0) Read problem_description.ipynb --> to understand the problem and the data
+1) data_analysis --> file used to select the good nodes
+2) graph_creation --> creating graph out the selected nodes
+3) model_creation_training --> developing and training the model with the developed graph
+4) Inference --> used for getting the output
+
+Additional cababilities
+1) graph_vis --> used for visualizing each of the github user graph 
+2) 
