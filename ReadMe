@@ -1,9 +1,11 @@
+This project mainly focuses on classifying whether a github user is ML Developer or a Web developer using Graph Neural Network
+Refer problem_description for more info
+
 Go with this flow for understanding the project in a sequential manner
-0) Read problem_description.ipynb --> to understand the problem and the data
-1) data_analysis --> file used to select the good nodes
-2) graph_creation --> creating graph out the selected nodes
-3) model_creation_training --> developing and training the model with the developed graph
-4) Inference --> used for getting the output
+0) data_analysis --> file used to select the good nodes
+1) graph_creation --> creating graph out the selected nodes
+2) model_creation_training --> developing and training the model with the developed graph
+3) Inference --> used for getting the output
 
 Contribution Area :
 Developers who are interested in contributing to this project can contribute in the following areas for the further improvement
@@ -12,7 +14,7 @@ Developers who are interested in contributing to this project can contribute in 
 * making a website to visualize and interact with graph (see the graph_data_creation.ipynb)
 * Model architecture
 
-
-I am currently working on building a GNN for a node level with the generated graph data(see graph_data_creation.ipynb)
+Note : Already proposed few strategies for preprocessing and graph data creation
+Currently working on : GNN Model Building and optimization
 
 
