@@ -5,6 +5,13 @@ Go with this flow for understanding the project in a sequential manner
 3) model_creation_training --> developing and training the model with the developed graph
 4) Inference --> used for getting the output
 
-Additional cababilities
-1) graph_vis --> used for visualizing each of the github user graph 
-2) 
+Contribution Area :
+Developers who are interested in contributing to this project can contribute in the following areas
+* preprocessing the node's feature vector
+* Graph creation strategy
+* making a website to visualize and interact with graph (see the graph_data_creation.ipynb)
+* Model architecture
+
+I am currently working on building a GNN for a node level with the generated graph data(see graph_data_creation.ipynb)
+
+
